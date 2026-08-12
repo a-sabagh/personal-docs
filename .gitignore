@@ -1,0 +1,6 @@
+# LibreOffice lock files
+.~lock.*#
+
+# LibreOffice backup files
+*.~
+*.bak
